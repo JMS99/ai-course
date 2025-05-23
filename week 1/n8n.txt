@@ -1,0 +1,11 @@
+N8N:
+
+n8n is a no-code/lo-code Agentic framework
+
+Allows you to build AI Agents without coding.
+
+AI Agents require:
+
+1. Model -> AI model that will perform actions
+2. Memory (not selected in first video)
+3. Tool -> many tools available to control/use
